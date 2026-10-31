@@ -1,7 +1,6 @@
 📦 Supply Chain Analytics Dashboard | Excel Data Analysis Project
 
-"Supply Chain Analytics Dashboard" (supply_chain_dashboard.png)
-
+![Supply Chain Analytics Dashboard](supply_chain_dashboard.png)
 📌 Project Overview
 
 The Supply Chain Analytics Dashboard is an Excel-based data analytics project designed to monitor and analyze supply chain performance, revenue, profitability, inventory levels, and supplier efficiency.
